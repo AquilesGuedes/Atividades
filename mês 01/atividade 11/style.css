@@ -1,0 +1,54 @@
+body {
+  font-family: sans-serif;
+  margin: 20px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 50px;
+
+  .titulo {
+    text-align: center;
+  }
+  .sobre {
+    text-align: left;
+  }
+  .foco {
+    font-size: 12px;
+  }
+  .torne {
+    font-size: 25px;
+    font-weight: bold;
+  }
+  .desenvolvedora {
+    color: blue;
+  }
+  .mais_sobre {
+    font-size: 16px;
+  }
+  .texto {
+    background-color: rgb(65, 65, 241);
+    color: #fff;
+    text-align: justify;
+    padding: 10px;
+
+  }
+  .tudo {
+    background-color: rgb(65, 65, 241);
+    color: #fff;
+    font-weight: bold;
+  }
+}
+span{
+    color:rgb(65, 65, 241);
+}
+.direitos {
+    background-color: black;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+a{
+    color: black;
+}
+.aqui {
+    color: rgb(65, 65, 241);
+}

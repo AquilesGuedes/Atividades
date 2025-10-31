@@ -1,0 +1,21 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+body *span{
+    margin: 0px;
+    padding: 0px;
+}
+section{
+    margin: 50px;
+}
+.text_line {
+    border: 1px solid black;
+    margin: 20px;
+    padding: 20px;
+    background-color: blueviolet;
+border-radius: 04px;
+color: #fff;
+font-size: 20px;
+border: none; 
+}
