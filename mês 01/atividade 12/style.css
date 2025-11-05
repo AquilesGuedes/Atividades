@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap");
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+  margin: 50px;
+  background-color: rgb(209, 207, 207);
+  line-height: 1.8;
+}
+.title_01 {
+  list-style-type: none;
+}
+li {
+  display: block;
+  background-color: #fff;
+  margin-top: 1rem;
+  padding: 1rem;
+  border-radius: 10px;
+}
+h1 {
+  font-size: 30px;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: 22px;
+  font-weight: bold;
+}
+.escritor {
+  font-style: italic;
+  margin-top: 5px;
+  animation: trocarCor 900ms infinite;
+}
+@keyframes trocarCor {
+  0% {
+    color: red;
+  }
+  25% {
+    color: orange;
+  }
+  50% {
+    color: green;
+  }
+  75% {
+    color: blue;
+  }
+  100% {
+    color: purple;
+  }
+}
+a {
+  display: block;
+  text-align: right;
+}
+
+footer {
+  background-color: rgb(44, 121, 208);
+  text-align: center;
+  display: block;
+  color: #fff;
+  padding: 1rem;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+
+.cabeçalho {
+  display: flex;
+  margin: 0 auto;
+}
+button {
+  color: rgb(255, 255, 255);
+  background-color: black;
+}
+b {
+  font-weight: bold;
+}
+em {
+  font-style: italic;
+}
